@@ -6,7 +6,7 @@ in the examples folder. After the myocardium has been associated with each
 vessel the vessel-specific myocardium volume are displayed. The vessel-specific 
 volumes can finally be saved as a .txt file.
 
-![alt text](images/FMM1.jpg)
+![alt text](images/FMM1.png)
 
 ## Usage
 1. From the MATLAB command window run *FMM_GUI.m*. 
@@ -18,7 +18,7 @@ select the centerlines and move to the next panel. Press the *Merge* button.
 5. Repeat until all centerlines have been merged. 
 6. Press the *FMM* button and wait for the to complete.
 
-![alt text](images/FMM2.jpg)
+![alt text](images/FMM2.png)
 
 ## Input File Formats
 ### Centerlines File
