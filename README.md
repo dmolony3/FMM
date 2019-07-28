@@ -16,7 +16,7 @@ This should be done for both left and right coronaries.
 4. To merge centerline segments into a larger centerline e.g. LAD
 select the centerlines and move to the next panel. Press the *Merge* button.
 5. Repeat until all centerlines have been merged. 
-6. Press the *FMM* button and wait for the to complete.
+6. Press the *FMM* button and wait for progress bar to complete.
 
 ![alt text](images/FMM2.png)
 
