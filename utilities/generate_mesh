@@ -1,0 +1,1 @@
+vmtksurfacereader -ifile path_to_stl --pipe vmtksurfaceremeshing -elementsizemode edgelength -edgelength 5 --pipe vmtkmeshgenerator -edgelength 5 --pipe vmtkmeshviewer --pipe vmtkmeshwriter -mode ascii -ofile output_file.vtu
